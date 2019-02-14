@@ -1,0 +1,8 @@
+{
+  "Description": "An example Go Stream Deck plugin.", 
+  "Name": "example", 
+  "com.elgato.cpu.cpu": {
+    "Name": "example", 
+    "Tooltip": "This is an example Go Stream Deck plugin"
+  }
+}
